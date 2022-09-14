@@ -1,0 +1,4 @@
+iot_protobuf.DisplayTest.title   max_size:32
+iot_protobuf.DisplayTest.menu    max_count:8
+iot_protobuf.DisplayTest.MenuItem.name   max_size:32
+iot_protobuf.DisplayTest.MenuItem.action int_size:IS_8
